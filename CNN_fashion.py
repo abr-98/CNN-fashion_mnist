@@ -1,5 +1,5 @@
 import matplotlib
-from minivggnet import MiniVGGNet
+from fashion_mnist import MiniVGGNet
 from sklearn.metrics import classification_report
 from keras.optimizers import SGD
 from keras.datasets import fashion_mnist
